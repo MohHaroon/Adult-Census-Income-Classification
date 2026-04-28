@@ -1,2 +1,2 @@
-# CM2604_CW
+# Classification Study
 Implementation of ML models (random forest &amp; Naive bayes) for a classification problem.
